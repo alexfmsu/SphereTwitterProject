@@ -53,11 +53,11 @@ def collectData(api, user, limit=1):
 
         count += 1
 
-        if count > limit:
+        if count >= limit:
             break
 
 
 users = ['tproger']
 
 for user in users:
-    collectData(api, user, limit=5)
+    collectData(api, user, limit=1)
