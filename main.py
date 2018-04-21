@@ -36,8 +36,12 @@ def collectData(api, user, limit=1):
     for tweet in tweepy.Cursor(api.user_timeline, screen_name=user).items():
         tweets.append(tweet)
 
+        # print(tweet)
         # print(dir(tweet))
-        # print()
+        # print(tweet._json)
+        # json_str = json.dumps(tweet._json)
+        # print(json_str)
+        print(json.dumps(tweet._json, indent=4))
 
         print({
             'author': tweet.author.name,
