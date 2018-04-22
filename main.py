@@ -2,10 +2,8 @@ import json
 import tweepy
 import re
 
-consumer_key = 'wezSPSzc1yGR83f6ykGXrSESv'
-consumer_secret = 'H91ncZl0u0LugfqCnzeXEZZc4gT6Jp5Ss9zACsQ2lLWuFQVbwP'
-access_token = '3064584671-HEsNDU3GcKlLBdL3dxq7t5hAU9RDkZ5MeIRvD78'
-access_token_secret = 'o7weRvnH22L7ct3NTVTRK8aMKEGyARZYFjdOQxSLWfDiE'
+from config import *
+
 session = {}
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -23,7 +21,7 @@ del session['request_token']
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.request_token = request_token
 
-auth.set_access_token(access_token, access_token_secret)
+auth.set_access_token(access_token, access_secret)
 
 api = tweepy.API(auth)
 
@@ -36,12 +34,8 @@ def collectData(api, user, limit=1):
     for tweet in tweepy.Cursor(api.user_timeline, screen_name=user).items():
         tweets.append(tweet)
 
-        # print(tweet)
         # print(dir(tweet))
-        # print(tweet._json)
-        # json_str = json.dumps(tweet._json)
-        # print(json_str)
-        print(json.dumps(tweet._json, indent=4))
+        # print()
 
         print({
             'author': tweet.author.name,
@@ -57,11 +51,11 @@ def collectData(api, user, limit=1):
 
         count += 1
 
-        if count >= limit:
+        if count > limit:
             break
 
 
 users = ['tproger']
 
 for user in users:
-    collectData(api, user, limit=1)
+    collectData(api, user, limit=5)
