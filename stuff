@@ -1,0 +1,64 @@
+import tweepy  # https://github.com/tweepy/tweepy
+import csv
+import sys
+import json
+
+# Twitter API credentials
+
+from config import *
+
+
+def get_all_tweets(name):
+
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_key, access_secret)
+    api = tweepy.API(auth)
+
+    replies = []
+    non_bmp_map = dict.fromkeys(range(0x10000, 65536), 0xfffd)
+
+    for full_tweets in tweepy.Cursor(api.user_timeline, screen_name=name, timeout=999999).items(10):
+        print(full_tweets.id)
+
+        if (full_tweets.retweeted_status.id):
+            print("\t", full_tweets.retweeted_status.id)
+
+        # print(full_tweets.in_reply_to_status_id)
+
+        json_str = json.dumps(full_tweets._json, skipkeys='user',
+                              indent=4, ensure_ascii=False)
+        # print(json_str)
+        # exit(0)
+        # print()
+        # name = 'tproger'
+        # if full_tweets.retweeted_status.id:
+            for f in tweepy.Cursor(api.user_timeline, id=full_tweets.id, timeout=999999).items(1):
+                #     print(f)
+                # exit(0)
+                # for tweet in tweepy.Cursor(api.search, q='to:tproger', since_id=full_tweets.retweeted_status.id, timeout=999999).items(1):
+                # print(tweepy.Cursor(api.statuses_lookup,
+                #                     id=full_tweets.in_reply_to_status_id))
+                # tweets = api.statuses_lookup(
+                #     [full_tweets.retweeted_status.id])
+                # for i in tweets:
+                #     json_str = json.dumps(i._json, skipkeys='user',
+                #                           indent=4, ensure_ascii=False)
+                #     # print(json_str)
+                #     for r in api.retweets(i.id):
+                #         print(r.text)
+                #     exit(0)
+                # for tweet in tweepy.Cursor(api.search, q='to:'+full_tweets.in_reply_to_status_id, timeout=999999).items(1000):
+                # print(tweet.text)
+
+                if hasattr(tweet, 'in_reply_to_status_id_str'):
+                    if (tweet.in_reply_to_status_id_str == full_tweets.id_str):
+                        replies.append(tweet.text)
+            # print("Tweet :", full_tweets.text)
+            for elements in replies:
+                print("Replies :", elements)
+    replies = []
+
+
+if __name__ == '__main__':
+    # get_all_tweets("tproger")
+    get_all_tweets("alexfmsu")

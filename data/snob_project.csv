@@ -1,0 +1,11 @@
+author,like_count,retweet_count,retweeted,hashtags_count,created,symbol_cnt,words_cnt,uniq_words_cnt
+Snob,5,1,False,0,2018-04-23,131,15,15
+Snob,20,10,False,0,2018-04-23,122,15,15
+Snob,5,2,False,0,2018-04-23,90,12,12
+Snob,16,6,False,0,2018-04-23,119,12,12
+Snob,18,8,False,0,2018-04-23,108,12,12
+Snob,2,0,False,0,2018-04-23,93,11,11
+Snob,7,4,False,0,2018-04-23,140,22,22
+Snob,31,16,False,0,2018-04-23,140,21,20
+Snob,6,0,False,0,2018-04-23,138,18,18
+Snob,11,6,False,0,2018-04-23,124,18,18
