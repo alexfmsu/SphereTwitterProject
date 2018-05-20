@@ -1,0 +1,8 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+ildus,17-02-15,foboss,0,8285355,15:40,2015-02-17,250803,12:00,ok,Централизованные логи для приложений с помощью связки heka+elasticsearch+kibana
+ildus,20-02-15,ildus,+1,8293269,12:22,2015-02-17,250803,12:00,ok,Централизованные логи для приложений с помощью связки heka+elasticsearch+kibana
+ildus,20-02-15,foboss,0,8293811,15:19,2015-02-17,250803,12:00,ok,Централизованные логи для приложений с помощью связки heka+elasticsearch+kibana
+ildus,17-02-15,Claud,+4,8285417,16:02,2015-02-17,250803,12:00,ok,Централизованные логи для приложений с помощью связки heka+elasticsearch+kibana
+ildus,17-02-15,johndow,+1,8285835,19:05,2015-02-17,250803,12:00,ok,Централизованные логи для приложений с помощью связки heka+elasticsearch+kibana
+ildus,22-03-15,asm0dey,0,8340615,18:41,2015-02-17,250803,12:00,ok,Централизованные логи для приложений с помощью связки heka+elasticsearch+kibana
+ildus,23-03-15,johndow,0,8340945,07:25,2015-02-17,250803,12:00,ok,Централизованные логи для приложений с помощью связки heka+elasticsearch+kibana

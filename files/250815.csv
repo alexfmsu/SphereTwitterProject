@@ -1,0 +1,9 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+khizmax,10-03-15,hack2root,0,8321791,18:48,2015-03-10,250815,09:00,ok,Lock-free структуры данных. Concurrent maps: skip list
+khizmax,10-03-15,khizmax,0,8322247,22:35,2015-03-10,250815,09:00,ok,Lock-free структуры данных. Concurrent maps: skip list
+khizmax,10-03-15,alexeibs,0,8321909,19:53,2015-03-10,250815,09:00,ok,Lock-free структуры данных. Concurrent maps: skip list
+khizmax,10-03-15,khizmax,0,8322251,22:36,2015-03-10,250815,09:00,ok,Lock-free структуры данных. Concurrent maps: skip list
+khizmax,11-03-15,Monnoroch,+1,8323279,13:38,2015-03-10,250815,09:00,ok,Lock-free структуры данных. Concurrent maps: skip list
+khizmax,11-03-15,khizmax,0,8323357,14:20,2015-03-10,250815,09:00,ok,Lock-free структуры данных. Concurrent maps: skip list
+khizmax,11-03-15,Monnoroch,+1,8323729,16:40,2015-03-10,250815,09:00,ok,Lock-free структуры данных. Concurrent maps: skip list
+khizmax,11-03-15,khizmax,+2,8323925,17:37,2015-03-10,250815,09:00,ok,Lock-free структуры данных. Concurrent maps: skip list

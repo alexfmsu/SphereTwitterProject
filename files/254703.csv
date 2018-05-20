@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+untech,02-04-15,baltazorbest,+1,8357559,15:12,2015-04-2,254703,09:50,ok,Вышел Django 1.8
+untech,02-04-15,dbanet,0,8357977,18:10,2015-04-2,254703,09:50,ok,Вышел Django 1.8
