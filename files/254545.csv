@@ -1,0 +1,11 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+PavelTretyakov,31-03-15,farcaller,0,8354523,22:51,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,01-04-15,purrrminator,0,8354617,00:12,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,02-04-15,PavelTretyakov,0,8358447,23:00,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,02-04-15,PavelTretyakov,0,8358435,22:52,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,01-04-15,Mingun,0,8356319,18:23,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,02-04-15,katleta,+1,8357761,16:41,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,03-04-15,ASkvortsov,+1,8360351,20:23,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,05-04-15,1101_debian,0,8362293,20:58,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,06-04-15,PavelTretyakov,0,8363767,21:16,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString
+PavelTretyakov,06-04-15,1101_debian,0,8363795,21:37,2015-03-31,254545,20:32,ok,Повреждение стека в одном из методов NSString

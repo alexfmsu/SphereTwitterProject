@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+Sptsh,08-07-15,steel_rat,+1,8491771,22:58,2015-07-8,262115,21:19,ok,Icinga2 и безагентный мониторинг серверов Windows средствами WMI
+Sptsh,09-07-15,rudenkovk,0,8492071,10:21,2015-07-8,262115,21:19,ok,Icinga2 и безагентный мониторинг серверов Windows средствами WMI
+Sptsh,14-10-15,fomistoklus,0,8614105,23:54,2015-07-8,262115,21:19,ok,Icinga2 и безагентный мониторинг серверов Windows средствами WMI

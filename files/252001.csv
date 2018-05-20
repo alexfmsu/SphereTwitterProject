@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+infobox,05-03-15,bhavenger,0,8314555,07:57,2015-03-3,252001,09:13,ok,Автоматизируем и ускоряем процесс настройки облачных серверов с Ansible. Часть 3: Переменные и файл inventory

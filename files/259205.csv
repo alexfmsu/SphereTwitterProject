@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+Indemsys,01-06-15,AngelOfSnow,0,8442233,13:18,2015-05-31,259205,21:34,ok,Дебаггинг в реальном времени через JTAG/SWJ-DP для микроконтроллеров на ядре ARM Cortex-M

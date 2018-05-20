@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+app-z,05-01-16,eXhausted,+1,8726073,13:09,2015-03-12,252823,02:11,ok,Кастомные функции SQLite Android или своя LOWER_FNC()

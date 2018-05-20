@@ -1,0 +1,6 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+Utter_step,01-07-15,kostialopuhin,0,8484411,16:35,2015-07-1,261575,13:24,ok,Улучшение производительности Python 2.7
+Utter_step,01-07-15,Utter_step,+1,8484625,19:27,2015-07-1,261575,13:24,ok,Улучшение производительности Python 2.7
+Utter_step,02-07-15,Ununtrium,+1,8484923,09:24,2015-07-1,261575,13:24,ok,Улучшение производительности Python 2.7
+Utter_step,06-07-15,Tarvitz,0,8487985,11:51,2015-07-1,261575,13:24,ok,Улучшение производительности Python 2.7
+Utter_step,09-07-15,const_int,0,8492103,10:34,2015-07-1,261575,13:24,ok,Улучшение производительности Python 2.7

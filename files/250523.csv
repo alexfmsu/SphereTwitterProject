@@ -1,0 +1,9 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+khizmax,05-03-15,d3m1gd,+1,8314335,00:07,2015-03-4,250523,09:00,ok,"Lock-free структуры данных. Concurrent maps: rehash, no rebuild"
+khizmax,05-03-15,khizmax,+1,8315053,11:54,2015-03-4,250523,09:00,ok,"Lock-free структуры данных. Concurrent maps: rehash, no rebuild"
+khizmax,05-03-15,leventov,+1,8315697,16:35,2015-03-4,250523,09:00,ok,"Lock-free структуры данных. Concurrent maps: rehash, no rebuild"
+khizmax,05-03-15,khizmax,+1,8315729,17:01,2015-03-4,250523,09:00,ok,"Lock-free структуры данных. Concurrent maps: rehash, no rebuild"
+khizmax,05-03-15,leventov,+1,8314487,04:40,2015-03-4,250523,09:00,ok,"Lock-free структуры данных. Concurrent maps: rehash, no rebuild"
+khizmax,05-03-15,khizmax,+1,8315077,12:04,2015-03-4,250523,09:00,ok,"Lock-free структуры данных. Concurrent maps: rehash, no rebuild"
+khizmax,05-03-15,leventov,+1,8315689,16:32,2015-03-4,250523,09:00,ok,"Lock-free структуры данных. Concurrent maps: rehash, no rebuild"
+khizmax,05-03-15,khizmax,+1,8315805,17:48,2015-03-4,250523,09:00,ok,"Lock-free структуры данных. Concurrent maps: rehash, no rebuild"

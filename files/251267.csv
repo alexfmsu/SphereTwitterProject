@@ -1,0 +1,14 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+khizmax,17-03-15,nepster,+3,8333491,12:50,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,17-03-15,khizmax,+1,8333557,13:27,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,17-03-15,encyclopedist,+1,8333593,13:45,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,17-03-15,khizmax,0,8333637,14:01,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,24-03-15,dvyukov,+1,8342485,12:03,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,01-06-15,DaylightIsBurning,+1,8442983,19:49,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,02-06-15,khizmax,0,8443759,10:49,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,02-06-15,DaylightIsBurning,+2,8443947,11:59,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,02-06-15,DaylightIsBurning,+1,8445265,20:56,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,02-06-15,khizmax,0,8445391,22:33,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,03-06-15,DaylightIsBurning,+1,8446435,15:14,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,04-06-15,khizmax,0,8448339,15:56,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья
+khizmax,04-06-15,DaylightIsBurning,0,8448597,18:28,2015-03-17,251267,08:55,ok,Lock-free структуры данных. Concurrent maps: деревья

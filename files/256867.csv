@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+mainloop,28-04-15,lamoss,0,8397661,19:32,2015-04-28,256867,16:49,ok,Высокоточная синхронизация времени для измерения задержки в ethernet сетях
+mainloop,28-04-15,mainloop,+1,8397699,19:55,2015-04-28,256867,16:49,ok,Высокоточная синхронизация времени для измерения задержки в ethernet сетях
+mainloop,28-04-15,lamoss,+1,8397763,20:44,2015-04-28,256867,16:49,ok,Высокоточная синхронизация времени для измерения задержки в ethernet сетях

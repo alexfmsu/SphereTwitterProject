@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+GalShadeck,20-05-15,leorush,0,8426391,09:28,2015-05-19,258303,14:43,ok,"Запуск нагрузочных тестов, сделанных в JMeter при помощи StormRunner Load"
+GalShadeck,20-05-15,GalShadeck,0,8426425,10:04,2015-05-19,258303,14:43,ok,"Запуск нагрузочных тестов, сделанных в JMeter при помощи StormRunner Load"

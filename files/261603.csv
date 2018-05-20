@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+JustStas,04-07-15,centur,0,8486977,15:55,2015-07-2,261603,16:34,ok,Пишем Custom MSBuild Task для деплоя (WMI included)
+JustStas,04-07-15,JustStas,0,8487101,19:21,2015-07-2,261603,16:34,ok,Пишем Custom MSBuild Task для деплоя (WMI included)
+JustStas,05-07-15,pashuk,0,8487627,21:26,2015-07-2,261603,16:34,ok,Пишем Custom MSBuild Task для деплоя (WMI included)

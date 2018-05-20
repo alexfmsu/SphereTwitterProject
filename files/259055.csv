@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+gkislin,29-05-15,vayho,0,8439371,10:04,2015-05-29,259055,03:28,ok,"Тестируем Spring Rest контроллеры: проще, короче, надежнее. Spring Security Test + JSON Matcher"

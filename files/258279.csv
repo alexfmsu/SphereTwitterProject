@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+izyk,22-05-15,navion,+1,8429901,13:53,2015-05-22,258279,11:15,ok,Минимальный почтовый сервер на основе Postfix и Dovecot. Часть 1: Dovecot
+izyk,22-05-15,avsavchenko,+3,8430721,20:58,2015-05-22,258279,11:15,ok,Минимальный почтовый сервер на основе Postfix и Dovecot. Часть 1: Dovecot
+izyk,26-05-15,foxmuldercp,0,8434803,14:10,2015-05-22,258279,11:15,ok,Минимальный почтовый сервер на основе Postfix и Dovecot. Часть 1: Dovecot

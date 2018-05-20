@@ -1,0 +1,25 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+khizmax,03-03-15,maksqwe,+6,8310097,10:08,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,lany,+5,8310171,11:01,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,khizmax,+1,8310177,11:02,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,evnuh,+1,8310189,11:07,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,khizmax,+2,8310203,11:18,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,leventov,+2,8311583,21:03,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,khizmax,0,8311627,21:28,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,leventov,0,8311647,21:38,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,khizmax,0,8311685,21:50,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,leventov,0,8311707,21:58,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,leventov,0,8311599,21:12,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,midday,+1,8311635,21:32,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,leventov,0,8311681,21:49,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,khizmax,0,8311639,21:33,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,leventov,+1,8311669,21:46,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,khizmax,+1,8311721,22:09,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,leventov,+1,8311729,22:14,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,ZyXI,+1,8311775,22:34,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,03-03-15,khizmax,0,8311777,22:41,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,13-12-16,nikitadanilov,0,9961386,14:52,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,13-12-16,khizmax,0,9961428,15:06,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,13-12-16,nikitadanilov,+1,9961454,15:12,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,13-12-16,khizmax,0,9961488,15:27,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка
+khizmax,13-12-16,nikitadanilov,0,9961694,16:51,2015-03-3,250383,09:00,ok,Lock-free структуры данных. Concurrent map: разминка

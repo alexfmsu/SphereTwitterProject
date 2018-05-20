@@ -1,0 +1,8 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+amarao,25-02-15,grossws,0,8301209,21:30,2015-02-25,251349,13:24,ok,Обработка логов с учётом предыдущих сообщений в logstash/elasticsearch
+amarao,25-02-15,amarao,0,8301353,22:24,2015-02-25,251349,13:24,ok,Обработка логов с учётом предыдущих сообщений в logstash/elasticsearch
+amarao,26-02-15,Zubchick,+1,8301785,00:56,2015-02-25,251349,13:24,ok,Обработка логов с учётом предыдущих сообщений в logstash/elasticsearch
+amarao,26-02-15,amarao,0,8302891,13:38,2015-02-25,251349,13:24,ok,Обработка логов с учётом предыдущих сообщений в logstash/elasticsearch
+amarao,26-02-15,farcaller,+1,8301635,00:03,2015-02-25,251349,13:24,ok,Обработка логов с учётом предыдущих сообщений в logstash/elasticsearch
+amarao,26-02-15,amarao,0,8301745,00:41,2015-02-25,251349,13:24,ok,Обработка логов с учётом предыдущих сообщений в logstash/elasticsearch
+amarao,26-02-15,CyberFlow,+1,8302651,12:00,2015-02-25,251349,13:24,ok,Обработка логов с учётом предыдущих сообщений в logstash/elasticsearch

@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+capgelka,08-04-15,odlbo,+1,8367167,15:45,2015-04-8,255239,11:43,ok,"Frame object в Python. Что с ним можно, а что нельзя (в production и другом приличном месте) делать"
+capgelka,08-04-15,capgelka,0,8367233,16:07,2015-04-8,255239,11:43,ok,"Frame object в Python. Что с ним можно, а что нельзя (в production и другом приличном месте) делать"
+capgelka,08-04-15,abusalimov,+1,8368075,22:44,2015-04-8,255239,11:43,ok,"Frame object в Python. Что с ним можно, а что нельзя (в production и другом приличном месте) делать"
+capgelka,09-04-15,capgelka,0,8369433,15:45,2015-04-8,255239,11:43,ok,"Frame object в Python. Что с ним можно, а что нельзя (в production и другом приличном месте) делать"
