@@ -1,0 +1,19 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+bbk,03-11-15,blind_oracle,0,8639191,11:50,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,navion,+1,8639317,12:30,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,bbk,+1,8639353,12:42,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,bbk,0,8639379,12:55,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,blind_oracle,0,8639421,13:08,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,navion,+2,8639465,13:23,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,bbk,+2,8639477,13:28,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,pcmaniac,+1,8640459,18:04,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,bbk,0,8640635,19:05,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,pcmaniac,+1,8640801,19:53,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,03-11-15,bbk,0,8641051,21:36,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,11-11-15,Pinkkoff,+1,8650743,12:06,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,11-11-15,bbk,0,8650803,12:51,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,11-11-15,Pinkkoff,+1,8650909,14:02,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,11-11-15,bbk,0,8650941,14:27,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,17-08-16,TarS,+1,9755666,16:36,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,17-08-16,bbk,0,9755740,17:04,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning
+bbk,17-08-16,TarS,+2,9755856,17:53,2015-11-3,269635,10:18,ok,Data ONTAP 8.3 ADP: Root-Data Partitioning

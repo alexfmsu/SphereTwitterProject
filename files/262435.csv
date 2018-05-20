@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+Fireball222,15-07-15,RouR,0,8500107,14:13,2015-07-13,262435,12:50,ok,Упрощаем юнит-тесты с помощью связки AutoFixture и xUnit
+Fireball222,12-08-15,vba,0,8532707,10:20,2015-07-13,262435,12:50,ok,Упрощаем юнит-тесты с помощью связки AutoFixture и xUnit
+Fireball222,20-08-15,Fireball222,0,8543383,15:20,2015-07-13,262435,12:50,ok,Упрощаем юнит-тесты с помощью связки AutoFixture и xUnit

@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+saul,21-01-16,si1v3r,0,8746765,13:12,2016-01-14,275083,09:47,ok,Построение и использование Mosquitto MQTT на Intel Edison

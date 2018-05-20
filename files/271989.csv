@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+LarisaPostgres,01-12-15,igor_suhorukov,+3,8673347,23:06,2015-12-1,271989,11:13,ok,Приглашаем на PGConf 2016 — российскую PostgreSQL конференцию
+LarisaPostgres,02-12-15,x-wao,+1,8673379,00:13,2015-12-1,271989,11:13,ok,Приглашаем на PGConf 2016 — российскую PostgreSQL конференцию
+LarisaPostgres,02-12-15,tinhol,+3,8673529,09:00,2015-12-1,271989,11:13,ok,Приглашаем на PGConf 2016 — российскую PostgreSQL конференцию
+LarisaPostgres,02-12-15,LarisaPostgres,+1,8673661,11:35,2015-12-1,271989,11:13,ok,Приглашаем на PGConf 2016 — российскую PostgreSQL конференцию

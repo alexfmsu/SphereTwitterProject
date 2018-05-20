@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+saul,09-09-15,shai_hulud,+5,8565877,14:46,2015-09-9,266427,13:38,ok,Реализация многопоточной архитектуры игрового движка

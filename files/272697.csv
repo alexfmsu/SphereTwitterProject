@@ -1,0 +1,7 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+Kurtosis,18-12-15,ssh1,0,8695105,20:42,2015-12-18,272697,15:21,ok,Оптимизация гиперпараметров в Vowpal Wabbit с помощью нового модуля vw-hyperopt
+Kurtosis,19-12-15,Kurtosis,0,8695501,11:05,2015-12-18,272697,15:21,ok,Оптимизация гиперпараметров в Vowpal Wabbit с помощью нового модуля vw-hyperopt
+Kurtosis,25-01-16,dcheklov,0,8750389,14:17,2015-12-18,272697,15:21,ok,Оптимизация гиперпараметров в Vowpal Wabbit с помощью нового модуля vw-hyperopt
+Kurtosis,26-01-16,Kurtosis,0,8751841,00:27,2015-12-18,272697,15:21,ok,Оптимизация гиперпараметров в Vowpal Wabbit с помощью нового модуля vw-hyperopt
+Kurtosis,26-01-16,dcheklov,0,8752127,12:25,2015-12-18,272697,15:21,ok,Оптимизация гиперпараметров в Vowpal Wabbit с помощью нового модуля vw-hyperopt
+Kurtosis,26-01-16,Kurtosis,0,8752139,12:32,2015-12-18,272697,15:21,ok,Оптимизация гиперпараметров в Vowpal Wabbit с помощью нового модуля vw-hyperopt

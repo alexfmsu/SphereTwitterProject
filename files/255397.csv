@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+app-z,12-04-15,andkulikov,+1,8373401,21:08,2015-04-9,255397,18:17,ok,Встраиваем RecyclerView в CardView
+app-z,13-04-15,app-z,0,8373693,10:19,2015-04-9,255397,18:17,ok,Встраиваем RecyclerView в CardView
+app-z,28-04-15,serso,0,8396785,13:19,2015-04-9,255397,18:17,ok,Встраиваем RecyclerView в CardView
+app-z,08-05-15,app-z,0,8410471,17:17,2015-04-9,255397,18:17,ok,Встраиваем RecyclerView в CardView

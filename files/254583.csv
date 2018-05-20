@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+kozyabka,01-04-15,Ml1ght,–7,8355157,11:16,2015-04-1,254583,10:01,ok,Очередной XSS на SoundCloud
+kozyabka,01-04-15,Cawqa,0,8356505,19:54,2015-04-1,254583,10:01,ok,Очередной XSS на SoundCloud
+kozyabka,02-04-15,kozyabka,0,8356853,07:36,2015-04-1,254583,10:01,ok,Очередной XSS на SoundCloud

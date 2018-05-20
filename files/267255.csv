@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+yarmolchuk,23-09-15,nitso,+1,8586601,14:03,2015-09-23,267255,11:41,ok,Написание Unit-тестов. Mocking объектов
+yarmolchuk,29-09-15,sojik,0,8594815,11:51,2015-09-23,267255,11:41,ok,Написание Unit-тестов. Mocking объектов
+yarmolchuk,29-09-15,yarmolchuk,0,8595011,13:39,2015-09-23,267255,11:41,ok,Написание Unit-тестов. Mocking объектов

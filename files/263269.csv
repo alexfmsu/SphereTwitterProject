@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+draven072,22-07-15,pavelodintsov,+4,8510257,14:17,2015-07-22,263269,13:03,ok,Автоматизация обновления темплейтов OpenVZ на Proxmox
+draven072,22-07-15,draven072,–1,8510261,14:20,2015-07-22,263269,13:03,ok,Автоматизация обновления темплейтов OpenVZ на Proxmox
+draven072,22-07-15,pavelodintsov,0,8510273,14:24,2015-07-22,263269,13:03,ok,Автоматизация обновления темплейтов OpenVZ на Proxmox
