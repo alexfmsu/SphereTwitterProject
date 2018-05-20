@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+mird,23-04-15,alexstz,0,8389933,12:35,2015-04-22,256403,23:28,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Часть вторая. Своя реализация IQueryProvider
+mird,23-04-15,mird,0,8390835,22:12,2015-04-22,256403,23:28,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Часть вторая. Своя реализация IQueryProvider
+mird,24-04-15,alexstz,0,8391153,08:09,2015-04-22,256403,23:28,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Часть вторая. Своя реализация IQueryProvider
