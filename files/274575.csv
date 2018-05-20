@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+marks,06-01-16,0x0FFF,+4,8726935,11:10,2016-01-6,274575,01:03,ok,IBM продолжает работу с Apache Spark: корпорация запускает Spark-as-a-service

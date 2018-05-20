@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+it_man,11-08-15,vvnick,–1,8532529,23:04,2015-08-11,264549,15:37,ok,Как Spotify масштабирует Apache Storm
+it_man,12-08-15,namespace,+3,8532719,10:34,2015-08-11,264549,15:37,ok,Как Spotify масштабирует Apache Storm
+it_man,12-08-15,vvnick,0,8533159,15:50,2015-08-11,264549,15:37,ok,Как Spotify масштабирует Apache Storm

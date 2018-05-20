@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+akhaustov,18-09-15,TaHKucT,+2,8577881,01:06,2015-09-16,266971,14:42,ok,Обработка логов с помощью monit.d
+akhaustov,18-09-15,akhaustov,+1,8578175,11:08,2015-09-16,266971,14:42,ok,Обработка логов с помощью monit.d
+akhaustov,21-09-15,Sleuthhound,0,8582067,15:18,2015-09-16,266971,14:42,ok,Обработка логов с помощью monit.d
+akhaustov,01-10-15,LuckySB,0,8596983,00:06,2015-09-16,266971,14:42,ok,Обработка логов с помощью monit.d

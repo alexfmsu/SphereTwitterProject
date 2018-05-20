@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+david_off,01-09-15,ComodoHacker,0,8556993,17:50,2015-07-30,263833,01:08,ok,CHECK CONSTRAINT в MS SQL — Грабли по которым мы прошлись
+david_off,01-09-15,david_off,0,8557067,19:22,2015-07-30,263833,01:08,ok,CHECK CONSTRAINT в MS SQL — Грабли по которым мы прошлись
+david_off,02-09-15,ComodoHacker,0,8557469,04:40,2015-07-30,263833,01:08,ok,CHECK CONSTRAINT в MS SQL — Грабли по которым мы прошлись

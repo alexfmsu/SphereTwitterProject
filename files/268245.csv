@@ -1,0 +1,10 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+flancer,06-10-15,AlexLeonov,0,8602379,15:08,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2
+flancer,06-10-15,flancer,0,8602559,17:04,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2
+flancer,06-10-15,AlexLeonov,+1,8602653,17:44,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2
+flancer,06-10-15,flancer,+2,8602685,18:04,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2
+flancer,06-10-15,Fesor,+1,8602915,20:00,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2
+flancer,06-10-15,flancer,0,8602973,20:27,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2
+flancer,07-10-15,AlexLeonov,+2,8603439,09:31,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2
+flancer,07-10-15,Fesor,–1,8603501,10:32,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2
+flancer,07-10-15,flancer,+1,8603623,11:51,2015-10-6,268245,12:30,ok,Пример модуля для Magento 2

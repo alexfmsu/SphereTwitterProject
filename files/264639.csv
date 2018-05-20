@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+SLY_G,13-08-15,TheRabbitFlash,+1,8534331,13:41,2015-08-12,264639,23:50,ok,Анализ производительности игры на WebGL при помощи about:tracing
+SLY_G,13-08-15,rPman,+1,8534741,17:39,2015-08-12,264639,23:50,ok,Анализ производительности игры на WebGL при помощи about:tracing
+SLY_G,20-08-15,Deamon87,0,8543531,16:17,2015-08-12,264639,23:50,ok,Анализ производительности игры на WebGL при помощи about:tracing
+SLY_G,21-08-15,TheRabbitFlash,0,8544641,13:33,2015-08-12,264639,23:50,ok,Анализ производительности игры на WebGL при помощи about:tracing

@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+VitGo,26-01-16,VitGo,0,8752095,12:03,2016-01-25,275775,13:00,ok,"STM32F4: GNU AS: Прерывания, Системный таймер (SysTick) (Часть 6)"

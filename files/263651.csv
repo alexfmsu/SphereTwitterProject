@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+what3words,27-07-15,Komzpa,+4,8516323,19:21,2015-07-27,263651,16:56,ok,Node-RED нод для конвертации локаций в адреса what3words
+what3words,27-07-15,mwizard,0,8516351,20:10,2015-07-27,263651,16:56,ok,Node-RED нод для конвертации локаций в адреса what3words
+what3words,28-07-15,jonywtf,+4,8516587,08:17,2015-07-27,263651,16:56,ok,Node-RED нод для конвертации локаций в адреса what3words
+what3words,28-07-15,Bluefox,0,8517433,17:23,2015-07-27,263651,16:56,ok,Node-RED нод для конвертации локаций в адреса what3words

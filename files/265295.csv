@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+x512,24-08-15,gigimon,0,8547065,14:15,2015-08-24,265295,10:00,ok,Поддержка PostgreSQL в Meteor
+x512,24-08-15,x512,+1,8547085,14:27,2015-08-24,265295,10:00,ok,Поддержка PostgreSQL в Meteor
+x512,25-08-15,n0ne,–1,8548159,09:07,2015-08-24,265295,10:00,ok,Поддержка PostgreSQL в Meteor
+x512,27-08-15,samokhvalov,+1,8552027,12:28,2015-08-24,265295,10:00,ok,Поддержка PostgreSQL в Meteor

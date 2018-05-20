@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+luqmon,19-10-15,Graid,0,8619261,15:50,2015-10-19,269085,15:44,ok,Портирование блога из yii1.1.* в yii2
+luqmon,18-11-15,VladimirAndreev,0,8657143,08:17,2015-10-19,269085,15:44,ok,Портирование блога из yii1.1.* в yii2
+luqmon,18-11-15,luqmon,0,8657209,10:01,2015-10-19,269085,15:44,ok,Портирование блога из yii1.1.* в yii2

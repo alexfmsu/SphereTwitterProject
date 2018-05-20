@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+greybax,01-12-15,tavriaforever,0,8672737,15:28,2015-11-25,271379,14:24,ok,Тестирование вёрстки на визуальные регрессии с помощью PhantomCSS

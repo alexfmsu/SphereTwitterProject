@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+EvgeniyRyzhkov,30-07-15,KindDragon,0,8520191,18:14,2015-07-30,263835,08:48,ok,"Просмотр статистики количества ошибок в проекте, или «Ого, в PVS-Studio появились графики!»"
+EvgeniyRyzhkov,30-07-15,EvgeniyRyzhkov,+1,8520211,18:34,2015-07-30,263835,08:48,ok,"Просмотр статистики количества ошибок в проекте, или «Ого, в PVS-Studio появились графики!»"

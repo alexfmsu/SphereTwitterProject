@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+oleg-v-wrike,29-12-15,SantyagoSeaman,0,8721175,15:46,2015-12-29,274059,10:25,ok,Повышаем производительность поиска с помощью партиционирования индекса в Apache Solr
+oleg-v-wrike,30-12-15,oleg-v-wrike,0,8721827,01:41,2015-12-29,274059,10:25,ok,Повышаем производительность поиска с помощью партиционирования индекса в Apache Solr
+oleg-v-wrike,30-12-15,SantyagoSeaman,0,8721859,02:44,2015-12-29,274059,10:25,ok,Повышаем производительность поиска с помощью партиционирования индекса в Apache Solr

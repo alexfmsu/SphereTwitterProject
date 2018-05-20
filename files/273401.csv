@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+grafalex,20-12-15,vasily-v-ryabov,0,8695931,10:06,2015-12-18,273401,00:33,ok,"Python->Cython->C++, да и COM в придачу: написание фреймворка для автотестов"
+grafalex,20-12-15,grafalex,0,8696055,13:44,2015-12-18,273401,00:33,ok,"Python->Cython->C++, да и COM в придачу: написание фреймворка для автотестов"
+grafalex,21-12-15,vasily-v-ryabov,0,8696851,13:49,2015-12-18,273401,00:33,ok,"Python->Cython->C++, да и COM в придачу: написание фреймворка для автотестов"
+grafalex,26-12-15,grafalex,0,8717523,11:24,2015-12-18,273401,00:33,ok,"Python->Cython->C++, да и COM в придачу: написание фреймворка для автотестов"

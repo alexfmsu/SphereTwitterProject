@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+gydex,26-10-15,xRay,0,8627973,22:00,2015-10-26,269351,11:37,ok,Перелистывающийся баннер с кнопками навигации и прогрессбаром: используем плагин Cycle2 для jQuery
+gydex,27-10-15,gydex,0,8630433,23:11,2015-10-26,269351,11:37,ok,Перелистывающийся баннер с кнопками навигации и прогрессбаром: используем плагин Cycle2 для jQuery

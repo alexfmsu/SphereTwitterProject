@@ -1,0 +1,10 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+mkpankov,24-09-15,voidnugget,0,8589511,19:02,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust
+mkpankov,24-09-15,grossws,0,8589585,19:51,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust
+mkpankov,24-09-15,mkpankov,0,8589827,23:06,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust
+mkpankov,25-09-15,Googolplex,0,8591313,20:09,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust
+mkpankov,25-09-15,grossws,0,8591317,20:15,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust
+mkpankov,25-09-15,Googolplex,0,8591389,21:19,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust
+mkpankov,24-09-15,mkpankov,+3,8589841,23:11,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust
+mkpankov,25-09-15,Googolplex,+1,8591311,20:08,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust
+mkpankov,26-09-15,mkpankov,0,8591783,13:09,2015-09-24,267661,18:50,ok,Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust

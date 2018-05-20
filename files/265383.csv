@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+kpimaker,26-08-15,ifreest,0,8550819,14:36,2015-08-25,265383,11:45,ok,В помощь аналитику: пишем свою автоматическую выгрузку отчетов Яндекс.Метрики с помощью AWS бесплатно

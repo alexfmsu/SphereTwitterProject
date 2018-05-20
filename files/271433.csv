@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+andy_shev,23-11-15,AterCattus,0,8663169,13:40,2015-11-23,271433,00:13,ok,Сделаем код чище: работа с 64-битными регистрами оборудования в Linux

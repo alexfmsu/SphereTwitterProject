@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+robertsz,01-09-15,AMar4enko,0,8557195,21:30,2015-09-1,265847,10:05,ok,Использование ES6 в AngularJs 1.x со сборкой Browserify+Babel
+robertsz,02-09-15,some_x,0,8557517,08:39,2015-09-1,265847,10:05,ok,Использование ES6 в AngularJs 1.x со сборкой Browserify+Babel
+robertsz,02-09-15,AMar4enko,0,8557819,12:21,2015-09-1,265847,10:05,ok,Использование ES6 в AngularJs 1.x со сборкой Browserify+Babel
+robertsz,02-09-15,some_x,+1,8557521,08:46,2015-09-1,265847,10:05,ok,Использование ES6 в AngularJs 1.x со сборкой Browserify+Babel

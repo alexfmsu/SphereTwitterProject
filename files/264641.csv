@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+gkislin,13-08-15,ShadowsMind,0,8534829,18:53,2015-08-13,264641,01:39,ok,Spring Security 4 + CSRF (добавление в Spring проект защиты от межсайтовой подделки запроса)
+gkislin,13-08-15,gkislin,0,8535009,22:53,2015-08-13,264641,01:39,ok,Spring Security 4 + CSRF (добавление в Spring проект защиты от межсайтовой подделки запроса)
+gkislin,14-08-15,ShadowsMind,0,8535273,10:51,2015-08-13,264641,01:39,ok,Spring Security 4 + CSRF (добавление в Spring проект защиты от межсайтовой подделки запроса)

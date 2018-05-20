@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+vmb,21-01-16,elingur,+1,8746785,13:27,2016-01-17,274475,20:54,ok,"Рип сетевых словарей при помощи Node.js, ч. 1: статические страницы; CLI; DSL -> TXT, PDF, DjVu; сопутствующие задачи"
+vmb,21-01-16,vmb,+1,8746863,14:39,2016-01-17,274475,20:54,ok,"Рип сетевых словарей при помощи Node.js, ч. 1: статические страницы; CLI; DSL -> TXT, PDF, DjVu; сопутствующие задачи"
+vmb,21-01-16,elingur,0,8746929,15:18,2016-01-17,274475,20:54,ok,"Рип сетевых словарей при помощи Node.js, ч. 1: статические страницы; CLI; DSL -> TXT, PDF, DjVu; сопутствующие задачи"

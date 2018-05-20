@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+the_unbridled_goose,05-12-15,igor_suhorukov,+5,8679551,00:19,2015-12-4,272395,11:26,ok,Проектирование в PostgreSQL документо-ориентированного API (Часть 1)
+the_unbridled_goose,06-12-15,Razaz,0,8680283,14:50,2015-12-4,272395,11:26,ok,Проектирование в PostgreSQL документо-ориентированного API (Часть 1)
+the_unbridled_goose,06-12-15,igor_suhorukov,0,8680505,23:01,2015-12-4,272395,11:26,ok,Проектирование в PostgreSQL документо-ориентированного API (Часть 1)
+the_unbridled_goose,07-12-15,Razaz,+2,8680521,00:06,2015-12-4,272395,11:26,ok,Проектирование в PostgreSQL документо-ориентированного API (Часть 1)

@@ -1,0 +1,6 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+cebka,12-11-15,encyclopedist,+1,8652327,17:33,2015-11-12,270743,14:57,ok,Статический анализ printf-like функций в Си при помощи libclang
+cebka,12-11-15,encyclopedist,+1,8652339,17:37,2015-11-12,270743,14:57,ok,Статический анализ printf-like функций в Си при помощи libclang
+cebka,12-11-15,cebka,+1,8652347,17:41,2015-11-12,270743,14:57,ok,Статический анализ printf-like функций в Си при помощи libclang
+cebka,12-11-15,helper2424,0,8652531,19:49,2015-11-12,270743,14:57,ok,Статический анализ printf-like функций в Си при помощи libclang
+cebka,13-11-15,cebka,0,8653631,17:24,2015-11-12,270743,14:57,ok,Статический анализ printf-like функций в Си при помощи libclang

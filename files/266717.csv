@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+ptsecurity,15-09-15,Karroplan,–1,8572879,11:30,2015-09-14,266717,14:12,ok,Исследование: Почти все популярные межсетевые экраны пропускают XSS-атаки

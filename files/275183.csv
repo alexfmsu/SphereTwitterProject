@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+esetnod32,15-01-16,nikitasius,0,8740195,15:30,2016-01-15,275183,15:29,ok,В криптографическом ПО OpenSSH исправлена опасная уязвимость

@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+urx,04-09-15,semlanik,–1,8560647,18:43,2015-09-3,266075,22:00,ok,Простой драйвер rotary encoder для Qt4 Embedded под Linux
+urx,05-09-15,urx,0,8561009,09:25,2015-09-3,266075,22:00,ok,Простой драйвер rotary encoder для Qt4 Embedded под Linux

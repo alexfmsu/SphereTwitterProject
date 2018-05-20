@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+return_true,19-10-15,pashuk,0,8619883,23:24,2015-10-19,267889,10:11,ok,GitFlow и Semantic Versioning на каждый день
+return_true,20-10-15,return_true,+1,8619995,02:37,2015-10-19,267889,10:11,ok,GitFlow и Semantic Versioning на каждый день
+return_true,20-10-15,pashuk,0,8621371,21:08,2015-10-19,267889,10:11,ok,GitFlow и Semantic Versioning на каждый день

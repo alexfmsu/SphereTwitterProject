@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+habit,02-12-15,kivsiak,+4,8673483,06:47,2015-12-2,272101,02:50,ok,SQLi по прежнему в строю
+habit,02-12-15,vintage,+2,8673579,10:12,2015-12-2,272101,02:50,ok,SQLi по прежнему в строю
+habit,02-12-15,scumware,+2,8674897,21:36,2015-12-2,272101,02:50,ok,SQLi по прежнему в строю

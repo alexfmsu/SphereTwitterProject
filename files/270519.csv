@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+zim32,10-11-15,GrizliK1988,–1,8649089,11:11,2015-11-9,270519,22:22,ok,Symfony2 двухфакторная авторизация с помощью сертификата
+zim32,10-11-15,zim32,+1,8649115,11:24,2015-11-9,270519,22:22,ok,Symfony2 двухфакторная авторизация с помощью сертификата
+zim32,10-11-15,GrizliK1988,0,8649553,14:23,2015-11-9,270519,22:22,ok,Symfony2 двухфакторная авторизация с помощью сертификата

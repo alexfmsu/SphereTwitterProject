@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+LogPacker,22-01-16,el777,0,8747955,13:22,2016-01-21,275513,07:20,ok,Docker: Окружение для тестирования
+LogPacker,25-01-16,LogPacker,0,8751601,21:05,2016-01-21,275513,07:20,ok,Docker: Окружение для тестирования
+LogPacker,26-01-16,el777,0,8752207,13:10,2016-01-21,275513,07:20,ok,Docker: Окружение для тестирования

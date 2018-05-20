@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+StanZakharov,11-01-16,Tagakov,+3,8733955,17:43,2016-01-11,274859,14:16,ok,Реализация списка использованных библиотек с помощью DialogFragment в Android приложении

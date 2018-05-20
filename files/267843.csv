@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+yarmolchuk,14-12-15,Alur,0,8687849,10:35,2015-11-3,267843,14:21,ok,Использование NSOperation и NSOperationQueue в Swift
