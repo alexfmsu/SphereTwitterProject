@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+AndreiYemelianov,19-02-15,kay,+4,8290879,13:04,2015-02-19,250969,11:09,ok,Сбор и анализ логов с Fluentd
+AndreiYemelianov,19-02-15,BasilioCat,0,8291537,17:12,2015-02-19,250969,11:09,ok,Сбор и анализ логов с Fluentd
+AndreiYemelianov,19-02-15,kay,0,8292047,20:49,2015-02-19,250969,11:09,ok,Сбор и анализ логов с Fluentd
+AndreiYemelianov,20-02-15,Ipeacocks,0,8292501,01:01,2015-02-19,250969,11:09,ok,Сбор и анализ логов с Fluentd

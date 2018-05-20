@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+akamajoris,03-05-15,TimsTims,+3,8403703,10:14,2015-05-3,257163,03:00,ok,Ошибка в коде AFNetworking позволяет перехватывать HTTPS трафик пользователей
+akamajoris,04-05-15,gloomka,+1,8404471,10:25,2015-05-3,257163,03:00,ok,Ошибка в коде AFNetworking позволяет перехватывать HTTPS трафик пользователей

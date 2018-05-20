@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+llxff,24-04-15,lolmaus,0,8391235,10:14,2015-04-24,256523,09:56,ok,Проблема с кодировкой в Sprockets 3 при работе с HTML файлами
+llxff,24-04-15,llxff,+1,8391245,10:19,2015-04-24,256523,09:56,ok,Проблема с кодировкой в Sprockets 3 при работе с HTML файлами
+llxff,24-04-15,Dreyk,0,8391321,11:19,2015-04-24,256523,09:56,ok,Проблема с кодировкой в Sprockets 3 при работе с HTML файлами

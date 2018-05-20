@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+ChudakovII,27-02-15,TimReset,0,8304221,10:08,2015-02-26,251617,18:10,ok,Liquibase и changeset’ы на чистом SQL
+ChudakovII,27-02-15,ChudakovII,0,8304271,10:38,2015-02-26,251617,18:10,ok,Liquibase и changeset’ы на чистом SQL
+ChudakovII,27-02-15,theRavel,+1,8304309,11:09,2015-02-26,251617,18:10,ok,Liquibase и changeset’ы на чистом SQL
+ChudakovII,27-02-15,ChudakovII,+1,8304317,11:12,2015-02-26,251617,18:10,ok,Liquibase и changeset’ы на чистом SQL

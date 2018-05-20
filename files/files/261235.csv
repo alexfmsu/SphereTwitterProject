@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+Pontar,28-06-15,BoDRbI,+1,8480225,15:39,2015-06-26,261235,16:51,ok,Реализация Blacklist в Asterisk с помощью БД на MySQL
+Pontar,29-06-15,ilder,+1,8480701,00:16,2015-06-26,261235,16:51,ok,Реализация Blacklist в Asterisk с помощью БД на MySQL

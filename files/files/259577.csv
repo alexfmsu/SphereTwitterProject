@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+UnDelete,14-06-15,michael_vostrikov,+2,8460229,14:47,2015-06-14,259577,13:23,ok,Интеграция Symfony 2 и Google Calendar

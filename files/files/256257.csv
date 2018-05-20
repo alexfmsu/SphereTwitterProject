@@ -1,0 +1,9 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+mird,21-04-15,Nagg,0,8386361,15:30,2015-04-21,256257,13:36,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Пример ExpressionVisitor
+mird,21-04-15,mird,0,8386425,15:52,2015-04-21,256257,13:36,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Пример ExpressionVisitor
+mird,21-04-15,Alvaro,+1,8386845,18:11,2015-04-21,256257,13:36,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Пример ExpressionVisitor
+mird,22-04-15,mird,0,8387875,09:59,2015-04-21,256257,13:36,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Пример ExpressionVisitor
+mird,22-04-15,mird,0,8389277,23:30,2015-04-21,256257,13:36,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Пример ExpressionVisitor
+mird,23-04-15,Alvaro,0,8389605,09:35,2015-04-21,256257,13:36,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Пример ExpressionVisitor
+mird,23-04-15,PsyHaSTe,0,8390513,18:00,2015-04-21,256257,13:36,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Пример ExpressionVisitor
+mird,23-04-15,mird,0,8390891,23:16,2015-04-21,256257,13:36,ok,Унифицируем поведение LINQ to IEnumerable и LINQ to IQueriable в части работы с null значениями. Пример ExpressionVisitor

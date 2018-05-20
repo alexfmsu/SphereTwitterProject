@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+alex_bel,11-02-15,Cthulhu,+2,8275955,15:01,2015-02-9,250079,02:53,ok,Инкрементальный сборщик мусора в Ruby 2.2

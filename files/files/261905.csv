@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+bronenos,06-07-15,Kirpa,0,8488849,20:42,2015-07-6,261905,17:07,ok,UITableView: добавляем иконку в UITableViewRowAction
+bronenos,06-07-15,bronenos,+2,8488855,20:57,2015-07-6,261905,17:07,ok,UITableView: добавляем иконку в UITableViewRowAction
+bronenos,08-07-15,blind_oracle,0,8490929,13:35,2015-07-6,261905,17:07,ok,UITableView: добавляем иконку в UITableViewRowAction
