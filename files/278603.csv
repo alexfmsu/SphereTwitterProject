@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+CooperMaster,04-03-16,AllexIn,0,8794363,18:32,2016-03-4,278603,18:13,ok,Сборка библиотеки FreeType для Android x86 с использованием NDK
+CooperMaster,04-03-16,dev_troy,–3,8794559,21:23,2016-03-4,278603,18:13,ok,Сборка библиотеки FreeType для Android x86 с использованием NDK
+CooperMaster,06-03-16,mkarev,0,8795505,07:38,2016-03-4,278603,18:13,ok,Сборка библиотеки FreeType для Android x86 с использованием NDK

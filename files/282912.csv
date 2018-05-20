@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+asommer,05-05-16,MrYuran,0,8882020,14:50,2016-05-4,282912,20:00,ok,Отправляем данные с Arduino в Azure IoT Hub
+asommer,05-05-16,den1s1,0,8882028,14:57,2016-05-4,282912,20:00,ok,Отправляем данные с Arduino в Azure IoT Hub
+asommer,05-05-16,asommer,0,8882124,16:01,2016-05-4,282912,20:00,ok,Отправляем данные с Arduino в Azure IoT Hub

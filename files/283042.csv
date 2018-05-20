@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+eastbanctech,09-05-16,akamyshanov,0,8888122,18:01,2016-05-6,283042,07:30,ok,"На пути к полной типизации с TypeScript, Swashbuckle и AutoRest"
+eastbanctech,09-05-16,unpete,0,8888178,18:37,2016-05-6,283042,07:30,ok,"На пути к полной типизации с TypeScript, Swashbuckle и AutoRest"
+eastbanctech,19-05-16,eastbanctech,+1,9616094,07:47,2016-05-6,283042,07:30,ok,"На пути к полной типизации с TypeScript, Swashbuckle и AutoRest"

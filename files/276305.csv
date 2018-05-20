@@ -1,0 +1,5 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+ansgri,01-02-16,guyfawkes,0,8757677,14:02,2016-02-1,276305,11:31,ok,JSON Schema и ее использование для валидация JSON-документов в C++
+ansgri,01-02-16,ansgri,0,8757703,14:25,2016-02-1,276305,11:31,ok,JSON Schema и ее использование для валидация JSON-документов в C++
+ansgri,01-02-16,guyfawkes,0,8757795,15:33,2016-02-1,276305,11:31,ok,JSON Schema и ее использование для валидация JSON-документов в C++
+ansgri,02-02-16,pavelodintsov,0,8758579,11:31,2016-02-1,276305,11:31,ok,JSON Schema и ее использование для валидация JSON-документов в C++

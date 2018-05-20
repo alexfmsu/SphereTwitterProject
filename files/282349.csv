@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+ptsecurity,25-04-16,student_ivan,+4,8868117,10:34,2016-04-25,282349,10:04,ok,Обнаружение DGA-доменов
+ptsecurity,25-04-16,Noyer,0,8868591,15:29,2016-04-25,282349,10:04,ok,Обнаружение DGA-доменов
+ptsecurity,26-04-16,lostpassword,0,8869957,12:36,2016-04-25,282349,10:04,ok,Обнаружение DGA-доменов

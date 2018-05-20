@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+BillingMan,24-04-16,gearbox,+1,8867165,15:10,2016-04-23,282281,11:00,ok,Как использовать ограничения JSON при работе с PostgreSQL

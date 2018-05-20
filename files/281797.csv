@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+LrdSpr,20-09-16,ddemidov,0,9818296,18:57,2016-05-21,281797,09:38,ok,Интеграция двух тенантов Dynamics CRM Online при помощи Azure Service Bus и Azure Cloud Service

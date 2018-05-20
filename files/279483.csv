@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+ptsecurity,17-03-16,Kanedias,–9,8808535,00:47,2016-03-16,279483,22:20,ok,Критические уязвимости в клиенте и серверной части Git позволяют осуществлять удаленное выполнение кода
+ptsecurity,17-03-16,dimoclus,+21,8808625,03:11,2016-03-16,279483,22:20,ok,Критические уязвимости в клиенте и серверной части Git позволяют осуществлять удаленное выполнение кода

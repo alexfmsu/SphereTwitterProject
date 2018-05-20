@@ -1,0 +1,6 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+deep_orange,12-02-16,Direvius,0,8771171,16:15,2016-02-12,277137,16:07,ok,Go sync.Pool
+deep_orange,12-02-16,OlegFX,0,8771213,16:54,2016-02-12,277137,16:07,ok,Go sync.Pool
+deep_orange,12-02-16,divan0,+2,8771217,17:00,2016-02-12,277137,16:07,ok,Go sync.Pool
+deep_orange,12-02-16,deep_orange,0,8771377,19:09,2016-02-12,277137,16:07,ok,Go sync.Pool
+deep_orange,12-02-16,gobwas,0,8771261,17:38,2016-02-12,277137,16:07,ok,Go sync.Pool

@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+nLight,24-04-16,KriMs,0,8867057,13:09,2016-04-23,282293,22:21,ok,Используем CommonJS модули в Rails с Browserify
+nLight,24-04-16,nLight,+1,8867135,14:35,2016-04-23,282293,22:21,ok,Используем CommonJS модули в Rails с Browserify

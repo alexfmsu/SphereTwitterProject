@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+maria_gore,30-06-16,pashuk,0,9681520,10:21,2016-04-6,281024,15:05,ok,Как мы внедряли DevOps: непрерывная интеграция с GitHub и системой сборки Visual Studio Team Services

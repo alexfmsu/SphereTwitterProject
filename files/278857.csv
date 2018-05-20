@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+esetnod32,10-03-16,ComodoHacker,–2,8799925,02:17,2016-03-9,278857,18:31,ok,Microsoft исправила очередную Stuxnet-like уязвимость в Windows
+esetnod32,10-03-16,ESP,+2,8800439,13:15,2016-03-9,278857,18:31,ok,Microsoft исправила очередную Stuxnet-like уязвимость в Windows

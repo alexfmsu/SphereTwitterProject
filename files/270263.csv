@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+vGrabko99,06-11-15,leoismyname,+2,8644743,08:41,2015-11-5,270263,22:04,ok,Гибкая система логирования на Go

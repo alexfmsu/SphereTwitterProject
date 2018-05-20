@@ -1,0 +1,6 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+ValdikSS,02-03-16,nikitasius,+3,8789647,12:12,2016-03-2,278335,11:49,ok,Уязвимость DROWN в SSLv2 позволяет дешифровать TLS-трафик
+ValdikSS,02-03-16,MrPrayer,+1,8790029,14:07,2016-03-2,278335,11:49,ok,Уязвимость DROWN в SSLv2 позволяет дешифровать TLS-трафик
+ValdikSS,02-03-16,ValdikSS,0,8790031,14:08,2016-03-2,278335,11:49,ok,Уязвимость DROWN в SSLv2 позволяет дешифровать TLS-трафик
+ValdikSS,02-03-16,andvgal,0,8790175,14:51,2016-03-2,278335,11:49,ok,Уязвимость DROWN в SSLv2 позволяет дешифровать TLS-трафик
+ValdikSS,04-03-16,VBart,0,8793617,11:14,2016-03-2,278335,11:49,ok,Уязвимость DROWN в SSLv2 позволяет дешифровать TLS-трафик

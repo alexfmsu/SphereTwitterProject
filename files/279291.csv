@@ -1,0 +1,3 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+dolgo,29-04-16,smartov,0,8875930,04:19,2016-03-15,279291,11:56,ok,Web-приложения в режиме offline. ServiceWorker и CacheStorage
+dolgo,03-09-16,This_man,0,9786872,09:17,2016-03-15,279291,11:56,ok,Web-приложения в режиме offline. ServiceWorker и CacheStorage

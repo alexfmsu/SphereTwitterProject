@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+IvanPonomarev,15-02-16,DimaBy,0,8773195,17:05,2016-02-15,277245,11:53,ok,Реализация функциональности многоуровневого undo/redo на примере прототипа электронной таблицы
+IvanPonomarev,15-02-16,IvanPonomarev,0,8773263,18:13,2016-02-15,277245,11:53,ok,Реализация функциональности многоуровневого undo/redo на примере прототипа электронной таблицы
+IvanPonomarev,16-02-16,sova,–1,8773777,03:41,2016-02-15,277245,11:53,ok,Реализация функциональности многоуровневого undo/redo на примере прототипа электронной таблицы

@@ -1,0 +1,4 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+FactoryGirl,22-04-16,GarryC,0,8864323,10:29,2016-04-21,282153,15:12,ok,INTEL представляет релиз исходного кода прошивки Arduino 101
+FactoryGirl,22-04-16,yarosroman,0,8864787,13:10,2016-04-21,282153,15:12,ok,INTEL представляет релиз исходного кода прошивки Arduino 101
+FactoryGirl,05-05-16,ASovetov,0,8881562,08:52,2016-04-21,282153,15:12,ok,INTEL представляет релиз исходного кода прошивки Arduino 101

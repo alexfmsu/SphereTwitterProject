@@ -1,0 +1,2 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+ptsecurity,17-03-16,whiplash,+2,8808973,12:22,2016-03-17,279503,09:49,ok,Критические уязвимости DNS-сервера BIND позволяют удаленно отключать его и проводить DoS-атаки

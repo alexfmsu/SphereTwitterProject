@@ -1,0 +1,15 @@
+author,comment_date,comment_nickname,comment_rating,comment_rel,comment_time,post_date,post_id,post_time,status,title
+centur,07-02-16,datacompboy,+6,8763863,13:17,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,07-02-16,OLS,–18,8763967,16:42,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,07-02-16,IvaYan,+6,8763979,17:01,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,07-02-16,centur,+5,8764151,23:36,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,alexeiz,+1,8764213,06:54,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,justmara,–4,8764291,10:52,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,FractalizeR,+5,8764365,11:43,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,justmara,–1,8764573,13:28,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,centur,+3,8764581,13:32,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,FractalizeR,+2,8764801,15:10,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,centur,+2,8764545,13:19,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,justmara,–1,8764591,13:37,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,centur,+4,8764681,14:07,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
+centur,08-02-16,justmara,0,8764841,15:34,2016-02-7,276727,11:44,ok,Проверка проекта Microsoft Orleans с помощью PVS-Studio
